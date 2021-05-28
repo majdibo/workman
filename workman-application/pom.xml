@@ -113,4 +113,11 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/majdibo/workman</url>
+		</repository>
+	</distributionManagement>
+
 </project>
