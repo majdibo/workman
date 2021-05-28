@@ -1,0 +1,3 @@
+create sequence BUSINESS_PROCESS_DEFINITION_SEQ;
+create sequence TASK_DEFINITION_SEQ;
+create sequence TASK_TRANSITION_SEQ;
